@@ -1,0 +1,24 @@
+body {
+   background-image:url("backgrnd.jpg"); 
+    
+}
+div.id{
+   background-color:pink; height:70px; text-align:center; width:70%;  margin-left: 200px;
+   }
+h1 {
+    background-color: blue;
+    
+  
+}
+h3 {
+    background-color: whiteSmoke;
+    color: navy; height:30px;
+	width:80%; margin-left:150px;
+}
+
+h4 {
+    background-color: peachPuff;
+    color: navy; 
+	width:80%; margin-left:150px;
+	font-size:24;
+}
